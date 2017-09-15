@@ -1,8 +1,8 @@
 {
-  "name": "react-native-uploader",
+  "name": "react-native-uploader-nevo",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aroth/react-native-uploader.git"
+    "url": "git+https://github.com/yiky84119/react-native-uploader.git"
   },
   "version": "0.0.10",
   "description": "A React Native module to upload files and camera roll assets. Supports progress notification.",
